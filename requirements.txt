@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+openai
+python-dotenv
+jinja2
+pydantic
+passlib[bcrypt]
+thefuzz
+python-Levenshtein
+numpy
+
+groq
+bcrypt==4.0.1
+python-multipart
